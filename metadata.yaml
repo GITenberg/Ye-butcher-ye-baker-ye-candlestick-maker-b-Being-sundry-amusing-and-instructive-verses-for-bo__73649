@@ -1,0 +1,36 @@
+_repo: Ye-butcher-ye-baker-ye-candlestick-maker-b-Being-sundry-amusing-and-instructive-verses-for-bo__73649
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Seaver, Robert
+    birthdate: 1873
+    deathdate: 1922
+    gutenberg_agent_id: '57165'
+    url: http://www.gutenberg.org/2009/agents/57165
+description: Illustrated by the author.
+gutenberg_issued: '2024-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73649'
+  lccn: 08021532
+language: en
+pgterms:marc904: https://archive.org/details/yebutcheryebaker00seav/page/n7/mode/2up?force_isolation=true
+pgterms:marc905: 20220530062817seaver
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bHoughton Mifflin Company, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous poetry, American'
+- !lcsh 'Occupations -- Poetry'
+- !lcsh 'Occupations -- Humor'
+- !lcc 'PS'
+- GITenberg
+title: 'Ye butcher, ye baker, ye candlestick-maker : $b Being sundry amusing and instructive
+  verses for both old and young, adorned with numerous woodcuts'
+url: http://www.gutenberg.org/ebooks/73649

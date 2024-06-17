@@ -1,5 +1,8 @@
 _repo: Ye-butcher-ye-baker-ye-candlestick-maker-b-Being-sundry-amusing-and-instructive-verses-for-bo__73649
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73649-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Seaver, Robert
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '57165'
     url: http://www.gutenberg.org/2009/agents/57165
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73649#Ye-butcher-ye-baker-ye-candlestick-maker-b-Being-sundry-amusing-and-instructive-verses-for-bo_
 gutenberg_issued: '2024-05-19'
 gutenberg_type: Text
 identifiers:
